@@ -6,7 +6,7 @@
        
        {"id":102,	"lat":43.12410655449519,	"lon":-77.6463317557775,	"type":"guid",	"value":"383 RIT Scottsville Road Right Lane"}
         
-        {"id":103,    "lat":43.12235210982107,    "lon":, -77.64744580807944,    "type":"warn",    "value":"Ramp 25 Mile Per Hour"}
+        {"id":103,    "lat":43.12235210982107,    "lon": -77.64744580807944,    "type":"warn",    "value":"Ramp 25 Mile Per Hour"}
         
         {"id":104,    "lat":43.12316797031181, "lon":-77.64896105073876,    "type":"warn",    "value":"Exit 25 Mile Per Hour"}
         

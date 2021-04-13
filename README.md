@@ -10,7 +10,8 @@ Taken from https://mutcd.fhwa.dot.gov/services/publications/fhwaop02084/index.ht
 - Route Signes 			= "rout"	(Varies)
 - Pedestrian Signs 		= "peds"	(Lime/White)
 - Parking Signs 			= "park"	(Varies)
-- Rest Area Signs 		= "rest"	(Blue)
+- Rest Area Signs 		        = "rest"	(Blue)
+- Interstate sign                     = "inter" (Blue/Red)
 - Motorist Service Signs 	= "serv"	(Blue)
 - Recreation Signs 		= "recr"	(Brown)
 
@@ -20,6 +21,12 @@ Here are some links related to the Freeway Friend:
 - Link to website: https://rma104.wixsite.com/freewayfriend
 - Link to database used: https://www.mapillary.com/dataset/trafficsign
 - Link to promotional video: https://youtu.be/Uo59fo86g0c
+
+## Number Assignments
+0 = Sarah
+1 = Jules
+2 = Ryan
+
 
 
 ## Resources

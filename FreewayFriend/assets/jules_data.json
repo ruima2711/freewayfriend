@@ -19,7 +19,7 @@
         {"id":109,    "lat":43.1256894, "lon":-77.6552748,    "type":"inter",    "value":"North Interstate 390"}
         
         {"id":110,    "lat":43.126503, "lon": -77.6568616 ,    "type":" ",    "value":""}
-        {"id":111,    "lat": , "lon":,    "type":"spdl",    "value":"State Speed Limit 55"}
+        {"id":111,    "lat":43.1264544, "lon":-77.6567815 ,    "type":"spdl",    "value":"State Speed Limit 55"}
         {"id":112,    "lat": , "lon":,    "type":" ",    "value":""}
         {"id":113,    "lat": , "lon":,    "type":" ",    "value":""}
 	]

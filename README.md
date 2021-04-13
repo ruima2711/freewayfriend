@@ -23,9 +23,11 @@ Here are some links related to the Freeway Friend:
 - Link to promotional video: https://youtu.be/Uo59fo86g0c
 
 ## Number Assignments
-0 = Sarah
-1 = Jules
-2 = Ryan
+- 0 = Sarah
+- 1 = Jules
+- 2 = Ryan
+- 3 = Mary
+- 4 = Rui
 
 
 

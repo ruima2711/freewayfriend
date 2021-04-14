@@ -1,6 +1,16 @@
 {
 	"data" : [
-		{"id":0,	"lat":99.9999,	"lon":99.9999,	"type":"warn", "value":"right turn"},
-		{"id":1,	"lat":99.9999,	"lon":99.9999,	"type":"spdl",	"value":""}
+		{"id":401, "lat":43.1768864, "lon":-77.6832296,	"type":"guid", "value":"Exit 22"},
+		{"id":401, "lat":43.1784658, "lon":-77.6833396,	"type":"guid", "value":"Lexington Ave"},
+		{"id":401, "lat":43.1791278, "lon":-77.6833982,	"type":"guid", "value":"Town of Greece"},
+		{"id":401, "lat":43.1794567, "lon":-77.6834242,	"type":"guid", "value":"Merging Traffic (From Right) Ahead (W4-1)"},
+		{"id":401, "lat":43.1838921, "lon":-77.6836168,	"type":"guid", "Exit 23 Ridge Ave 1/2 Mile"},
+		{"id":401, "lat":43.1854742, "lon":-77.6834023,	"type":"spdl", "State Speed Limit 55"},
+		{"id":401, "lat":43.187489, "lon":-77.6830658,	"type":"guid", "Exit 23 Ridgeway Ave"},
+		{"id":401, "lat":43.1897449, "lon":-77.6828107,	"type":"guid", "Exit 23"},
+		{"id":401, "lat":43.1911755, "lon":-77.6827782,	"type":"guid", "Ridgeway Ave"},
+		{"id":401, "lat":43.1934257, "lon":-77.6827076,	"type":"guid", "value":"Merging Traffic (From Right) Ahead (W4-1)"},
+		{"id":401, "lat":43.1972053, "lon":-77.6809044,	"type":"guid", "Exit 24A-B 104 Ridge Rd 1/2 Mile"},
+
 	]
 }
